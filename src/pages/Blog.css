@@ -1,0 +1,21 @@
+
+
+.post {
+  padding: 1rem;
+}
+
+
+.post h3 {
+  color: #181818;
+}
+
+.post a {
+  color: #003659;
+}
+
+input[type="text"] {
+  width: 50%;
+  padding: .7rem;
+  font-size: 1.1rem;
+  outline: none;
+}
